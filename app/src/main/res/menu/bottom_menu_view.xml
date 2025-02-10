@@ -1,4 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/select_home"
+        android:title="@string/home"/>
 
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/select_search"
+        android:title="@string/search"/>
+
+    <item
+        android:id="@+id/unggah"
+        android:icon="@drawable/select_plus"
+        android:title="@string/unggah"/>
+
+    <item
+        android:id="@+id/reels"
+        android:icon="@drawable/select_reels"
+        android:title="@string/reels"/>
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="@string/profile"
 </menu>
