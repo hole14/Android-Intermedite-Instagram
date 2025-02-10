@@ -2,11 +2,11 @@
     <string name="app_name">Instagram</string>
     <string name="favorit">Favorite</string>
     <string name="message">Message</string>
-    <string name="home">Home</string>
-    <string name="search">Search</string>
-    <string name="unggah">Unggah</string>
-    <string name="reels">Reels</string>
-    <string name="profile">Profile</string>
+    <string name="home"/>
+    <string name="search"/>
+    <string name="unggah"/>
+    <string name="reels"/>
+    <string name="profile"/>
 
     <style name="font_ig" parent="TextAppearance.MaterialComponents.Headline6">
         <item name="fontFamily">@font/allura_regular</item>

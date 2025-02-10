@@ -22,6 +22,6 @@
 
     <item
         android:id="@+id/profile"
-        android:icon="@drawable/baseline_account_circle_24"
-        android:title="@string/profile"
+        android:icon="@drawable/select_profile"
+        android:title="@string/profile"/>
 </menu>
