@@ -11,19 +11,27 @@
     <androidx.coordinatorlayout.widget.CoordinatorLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
         tools:ignore="MissingConstraints">
+
         <com.google.android.material.appbar.AppBarLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@color/black"
             app:liftOnScroll="true">
+
             <com.google.android.material.appbar.MaterialToolbar
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
-                app:title="@string/app_name"
                 app:layout_scrollFlags="scroll|exitUntilCollapsed"
-                app:titleTextAppearance="@style/font_ig"/>
+                app:menu="@menu/menu"
+                app:title="@string/app_name"
+                app:titleTextAppearance="@style/font_ig" />
         </com.google.android.material.appbar.AppBarLayout>
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
