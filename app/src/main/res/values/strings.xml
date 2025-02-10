@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Instagram</string>
+    <string name="favorit">Favorite</string>
+    <string name="message">Message</string>
 
     <style name="font_ig" parent="TextAppearance.MaterialComponents.Headline6">
         <item name="fontFamily">@font/allura_regular</item>
