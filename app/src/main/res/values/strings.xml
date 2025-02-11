@@ -18,7 +18,7 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
-
+    <string name="judul">Judul</string>
 
     <string-array name="data_user">
         <item>username_1</item>
