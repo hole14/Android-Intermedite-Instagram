@@ -43,4 +43,17 @@
         <item>@drawable/status_9</item>
         <item>@drawable/status_10</item>
     </string-array>
+
+    <string-array name="data_postingan">
+        <item>@drawable/postingan_1</item>
+        <item>@drawable/postingan_2</item>
+        <item>@drawable/postingan_3</item>
+        <item>@drawable/postingan_4</item>
+        <item>@drawable/postingan_5</item>
+        <item>@drawable/postingan_6</item>
+        <item>@drawable/postingan_7</item>
+        <item>@drawable/postingan_8</item>
+        <item>@drawable/postingan_9</item>
+        <item>@drawable/postingan_10</item>
+    </string-array>
 </resources>
