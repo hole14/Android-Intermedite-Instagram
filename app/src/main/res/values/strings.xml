@@ -18,6 +18,21 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
+
+
+    <string-array name="data_user">
+        <item>username_1</item>
+        <item>username_2</item>
+        <item>username_3</item>
+        <item>username_4</item>
+        <item>username_5</item>
+        <item>username_6</item>
+        <item>username_7</item>
+        <item>username_8</item>
+        <item>username_9</item>
+        <item>username_10</item>
+    </string-array>
+
     <string-array name="data_profile">
         <item>@drawable/pp_1</item>
         <item>@drawable/pp_2</item>
